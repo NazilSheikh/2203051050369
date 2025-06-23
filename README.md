@@ -77,14 +77,6 @@ node_modules/
 .env
 .DS_Store
 
-✨ Future Improvements
 
-Link expiry & analytics
-
-Authentication (user-based shortening)
-
-Rate limiting & spam detection
-
-UI for users to manage links
 
 Made  by Nazil Sheikh
